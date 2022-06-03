@@ -4,7 +4,7 @@ title: hexo-theme-fluid
 
 <div align="center"><img alt="Fluid Logo" src="@img/2/2-13/logo.png" width="128"></div>
 
-# hexo-theme-fluid <Badge text="@fluid-dev"/> <Badge text="Finish"/> <Badge text="1.7.1"/>
+# hexo-theme-fluid <Badge text="@fluid-dev"/> <Badge text="Finish"/> <Badge text="1.9.1"/>
 
 一款 Material Design 风格的主题。
 
